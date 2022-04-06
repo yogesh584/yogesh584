@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh584&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh584" /> </p>
 
-- 🔭 I’m currently working on **Niro India**
+- 🔭 I’m currently working for **Self**
 
 - 🌱 I’m currently learning **Data Structures and Algorithum**
 
