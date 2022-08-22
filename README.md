@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **JavaScript,Python,PHP**
 
-- 📫 How to reach me **yjangid584@gmail.com**
 
 <p align="left">
 </p>
